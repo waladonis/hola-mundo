@@ -16,6 +16,7 @@ public class Holamundo {
      */
     public static void main(String[] args) {
         System.out.print("hola mundo");
+        System.out.println("chinga tu madre");
     }
     
 }
